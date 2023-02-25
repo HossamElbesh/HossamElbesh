@@ -1,7 +1,7 @@
 ![mi perfil](./Header-Github.jpg)
 <h1 align="center">Hi 👋, I'm Hossam Albesh</h1>
 <h3 align="center">A Software Developer</h3>
-<img align='right' src="https://github.com/BhavyaCodes/BhavyaCodes/blob/master/.github/cat.gif" height="" width="300" alt="coding cat">
+<img align='right' src="./Cat.gif" height="" width="300" alt="Coding Cat">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hossamalbesh&label=Profile%20views&color=0e75b6&style=flat" alt="hossamalbesh" /> </p>
 
 <p align="left"> <a href="https://twitter.com/7ossam_albesh" target="blank"><img src="https://img.shields.io/twitter/follow/7ossam_albesh?logo=twitter&style=for-the-badge" alt="7ossam_albesh" /></a> </p>
